@@ -1,0 +1,2 @@
+#WizTrader-MaiBu
+WizTrader项目麦步手表中的app 股神助手的源码，发布基于GPL
